@@ -1,11 +1,13 @@
-# word list1
+# word list 1
 
 ## emperor
 
 - n.
   - 皇帝，君主
 
-扩展：复数 emperors
+扩展：
+
+- emperors: 复数
 
 ## exact
 
@@ -21,7 +23,9 @@
     - exact obedience from sb: 要求某人顺从 - (inflict)施加
     - exact revenge or vengeance on sb
 
-扩展：exactly，准确地，精确地，确切地
+扩展：
+
+- exactly: 准确地，精确地，确切地
 
 ## traditional
 
@@ -177,9 +181,10 @@
   - 垮掉（情感上）
 
 扩展：
-to buckle down to sth：下决心认真做某事
-buckle on sth, buckle sth on
-buckle up 系好安全带
+
+- to buckle down to sth：下决心认真做某事
+- buckle on sth, buckle sth on
+- buckle up 系好安全带
 
 ## curry
 
@@ -238,9 +243,10 @@ buckle up 系好安全带
     - lack of purpose: 优柔寡断
 
 扩展：
-for the purposes of sth: 出于对某事的考虑
-for sb's (own) purposes: 对某人（自己）而言
-for all practical purposes: 实际上
+
+- for the purposes of sth: 出于对某事的考虑
+- for sb's (own) purposes: 对某人（自己）而言
+- for all practical purposes: 实际上
 
 ## variety
 
@@ -301,7 +307,7 @@ for all practical purposes: 实际上
   - 赌注
     - place your bets
   - 推测
-    - it's a good/safe bet that …: 很有可能...
+    - it's a good/safe bet that …: 很有可能…
 
 ## consumer
 
@@ -335,7 +341,7 @@ for all practical purposes: 实际上
 - vt.
   - 等于
     - 1 + 2 equals 3
-    - to let sth equal sth: 设...等于...
+    - to let sth equal sth: 设…等于…
   - 比得上
     - not to be equalled: 无与伦比
   - 导致
@@ -560,7 +566,7 @@ for all practical purposes: 实际上
 - vt.
   - 使能够，使有机会
     - to enable sb to do sth: 使某人有机会做某事
-  - 使...成为可能
+  - 使…成为可能
     - to enable sb to do sth: 使某人有能力做某事
   - 激活
 
@@ -604,7 +610,7 @@ for all practical purposes: 实际上
 - n.
   - 风景
 - vt.
-  - 对...作景观美化，美化
+  - 对…作景观美化，美化
 
 ## emotion
 
@@ -667,7 +673,7 @@ for all practical purposes: 实际上
 - vt.
 
   - 修剪
-    - clip the wings of the: 修剪...的翅膀，限制...的自由
+    - clip the wings of the: 修剪…的翅膀，限制…的自由
   - 剪下
     - to clip sth out of the paper
   - 剪
@@ -724,8 +730,9 @@ for all practical purposes: 实际上
   - 收货率
 
 扩展：
-to yield oneself up to sth: 屈从于某事物
-to yield oneself up to the pleasures of the moment: 沉湎于一时的欢娱
+
+- to yield oneself up to sth: 屈从于某事物
+- to yield oneself up to the pleasures of the moment: 沉湎于一时的欢娱
 
 ## fair
 
